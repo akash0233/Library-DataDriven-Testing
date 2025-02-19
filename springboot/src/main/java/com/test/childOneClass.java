@@ -5,5 +5,6 @@ public class childOneClass {
 
         System.out.println("makrand");
         System.out.println("katkar");
+        System.out.println("priyanka");
     }
 }
